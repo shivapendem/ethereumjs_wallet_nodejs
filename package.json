@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ethereumjs-wallet": "^1.0.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {}
+}
